@@ -1,5 +1,5 @@
 # xchema
-Extended Schema of Pandas and PySpark DataFrame
+Extended Schema of PySpark DataFrame
 
 
 This is to be available.
